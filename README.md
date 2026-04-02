@@ -216,4 +216,4 @@ create-senpai/
 
 这个 Skill 就是把这句话，以及说这句话的那个人，临时拉回组会现场。
 
-MIT License © [therealXiaomanChu](https://github.com/therealXiaomanChu)
+MIT License © [zhanghaichao520](https://github.com/zhanghaichao520)

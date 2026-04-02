@@ -5,7 +5,7 @@
 **把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill。**
 
 > 我们的师兄毕业得太早，早到服务器还没完全学会自己活着，组会也还没学会不挨骂。  
-> 大家都很想他，所以决定用一点不太合规但很有感情的技术手段，让他以数字形态继续留在组里，争取常驻“永远组”。
+> 大家都很想他，所以决定用一点不太合规但很有感情的技术手段，让他以数字形态继续留在组里，争取常驻“课题组”。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)

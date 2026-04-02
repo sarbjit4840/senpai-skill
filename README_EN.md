@@ -141,6 +141,8 @@ The architecture is directly inspired by **[colleague-skill (同事.skill)](http
 
 This project follows the [AgentSkills](https://agentskills.io) open standard and is compatible with Claude Code and OpenClaw.
 
+Special thanks to my senior `Chenke Yin` and senior `Yuxin Liu`, who served as the founding inspirations for the first “senpai digital-life experiment” and gave this project its earliest cyber-return narrative.
+
 ---
 
 MIT License © [therealXiaomanChu](https://github.com/therealXiaomanChu)

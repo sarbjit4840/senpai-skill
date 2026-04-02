@@ -215,5 +215,6 @@ create-senpai/
 `先别慌，把问题讲明白。`
 
 这个 Skill 就是把这句话，以及说这句话的那个人，临时拉回组会现场。
+Thanks 大师兄 @ Chenke Yin.
 
 MIT License © [zhanghaichao520](https://github.com/zhanghaichao520)

@@ -145,4 +145,14 @@ Special thanks to my senior `Chenke Yin` and senior `Yuxin Liu`, who served as t
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=zhanghaichao520%2Fsenpai-skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&legend=top-left" />
+ </picture>
+</a>
+
 MIT License © [therealXiaomanChu](https://github.com/therealXiaomanChu)

@@ -256,4 +256,14 @@ create-senpai/
 如果可以的话，我们甚至希望他别只是“临时返场”，而是以一种不占工位、不领报销、但持续在群里施压的方式，永远留在组里。
 毕竟有些师兄一毕业，整个实验室的 debug 成功率和 PPT 通过率都会出现肉眼可见的震荡。
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=zhanghaichao520%2Fsenpai-skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zhanghaichao520/senpai-skill&type=date&legend=top-left" />
+ </picture>
+</a>
+
 MIT License © [zhanghaichao520](https://github.com/zhanghaichao520)

